@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SALATTID</string>
+    <string name="date">Date</string>
+    <string name="town">TOWEN - SWEDEN</string>
+    <string name="fajr">FAJER</string>
+    <string name="duher">DUHER</string>
+    <string name="aser">ASER</string>
+    <string name="maghrib">MAGHRIB</string>
+    <string name="isha">ISHA</string>
+    <string name="location">LOCATION</string>
+    <string name="calculation">CLCULATION</string>
+    <string name="share">SHARE APPLICATION</string>
+    <string name="rate">RATE SALATTID</string>
+    <string name="about_app">ABOUT SALATTID</string>
+    <string name="contact_us">Contact</string>
+    <string name="themes">THEMES</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
